@@ -1,0 +1,33 @@
+{
+	"tree-header-info":
+	{
+		"format-version": 19,
+		"max-lod": 32,
+		"min-lod": 15,
+		"lod-number-of-nodes": [ 1, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 14, 23], 
+		"node-size": 262144,
+		"max-node-size": 262144,
+		"root-offset": [0, 0, 0 ],
+		"origin": [322529, 5.08399e+06, 13.9978 ],
+		"bounding-box": 
+			{ "min" : [ 322528, 5.08383e+06, 12.5888 ], 
+			  "max" : [ 322625, 5.08403e+06, 37.2308 ] 
+			},
+		"scale": [0.001, 0.001, 0.001 ],
+		"attribute-id": 2388152527,
+		"time-stamp": 989913096,
+		"point-count": 16017,
+		"point-count-low-bits": 16017,
+		"point-count-high-bits": 0,
+		"attributes" : [ 
+				{"type": "M96", "role": "POSITION", "name": "POSITION" },
+				{"type": "U8", "role": "R", "name": "R" },
+				{"type": "U8", "role": "G", "name": "G" },
+				{"type": "U8", "role": "B", "name": "B" },
+				{"type": "F64", "role": "TIMESTAMP", "name": "TIMESTAMP" },
+				{"type": "F32", "role": "INTENSITY", "name": "INTENSITY" }
+			],
+		"filtered-point-count": 0,
+		"revision": 10
+	}
+}
